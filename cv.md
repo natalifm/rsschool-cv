@@ -4,7 +4,7 @@ GitHub: https://github.com/natalifm
 
 Email: 4natalionly@gmail.com
 ### Overview
-I am an open-minded and highly motivated person with a keen desire to grow and develop as a JavaScript developer. Currently, I am practicing in the creation of single page application by myself. Various tools of HTML5, CSS3, flexbox-grid, and media queries were used to create adaptive and cross-browser application, also I've used JavaScript to ensure the process of digital interaction.
+I am an open-minded and highly motivated person with a keen desire to grow and develop as a Front-End developer.
 ### Technical Skills:
 * HTML5/CSS3 and SASS
 * Flexbox
