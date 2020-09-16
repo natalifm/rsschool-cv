@@ -1,0 +1,78 @@
+ul li a{
+    text-decoration: none;
+ }
+
+main {
+    margin: 0 auto;
+    max-width: 1024px;
+    line-height: 1.5rem;
+}
+
+.cv-wrapper {
+    margin: 15px 0;
+    padding: 15px;
+    border: aquamarine 1px solid;
+    border-radius: 2px;
+    box-shadow: 0 0 50px -8px #2C3834;
+}
+
+.cv-wrapper:hover {
+    box-shadow: 0 0 50px -8px #a1f5e0;
+}
+
+.main-information {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-bottom: grey 1px solid;
+}
+
+.avatar img {
+    width: 160px;
+    height: 160px;
+    border-radius: 80px;
+    margin: 10px 0 0 10px;
+}
+
+.about-me {
+    max-width: 600px;
+}
+
+.overview p{
+    color: grey;
+}
+
+.contact-list {
+    padding: 0;
+    margin: 0;
+}
+
+.contact-list li {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.contact-list li:last-child {
+    padding-right: 0;
+}
+
+.contact-list a {
+    color: grey;
+}
+
+.contact-list a:hover {
+    color: #100f0f;
+}
+
+.sub-information {
+    padding: 15px 35px;
+}
+
+.code-examples a {
+    color: black;
+    text-decoration: none;
+}
+
+.projects a {
+    color: black;
+}
