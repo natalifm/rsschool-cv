@@ -1,1 +1,1 @@
-https://natalifm.github.io/rsschool-cv/cv
+https://natalifm.github.io/rsschool-cv/
